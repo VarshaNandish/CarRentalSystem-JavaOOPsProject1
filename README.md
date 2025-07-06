@@ -1,4 +1,4 @@
-## 🚗 Car Rental System (Java OOP Project)
+## 🚗 Car Rental System (Java OOPs Project)
 
 A simple yet functional **console-based Car Rental Management System** built using **Java OOP concepts**, with support for **rental duration tracking**, **price calculation**, and **file-based logging**.
 
