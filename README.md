@@ -37,20 +37,27 @@ CarRentalSystem/
 ## 🧾 Log Sample (`rental_log.txt`)
 
 RENTED - John Doe rented Toyota Camry on 02-07-2025
+
 RETURNED - John Doe returned Toyota Camry on 05-07-2025 after 3 days
 
 ## 🚀 Future Enhancements (Optional Ideas)
 
-GUI using JavaFX or Swing
-Store data in a file or database (e.g., SQLite)
-Admin panel to manage cars/customers
-Generate invoices
+GUI using JavaFX or Swing, 
+
+Store data in a file or database (e.g., SQLite), 
+
+Admin panel to manage cars/customers, 
+
+Generate invoices, 
+
 Exception handling for input errors
 
 ## 🙋‍♀️ Created By
 
 Varsha S P
+
 Java Enthusiast | Passionate about learning backend & full-stack development
+
 📅 Finalized: July 2025
 
 
