@@ -1,6 +1,2 @@
-
-RENTED - Varsha rented Toyota Camry on 06-06-2025
-RETURNED - Varsha returned Toyota Camry on 06-09-2025 after 0 days
-RENTED - V rented Mahindra Thar on 07-07-2025
 RENTED - Varsha rented Mahindra Thar on 07-07-2025
 RETURNED - Varsha returned Mahindra Thar on 10-07-2025 after 3 days
